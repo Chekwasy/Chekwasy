@@ -1,188 +1,232 @@
-# Hi, I'm Richard 👋
+# Hi, I'm Richard Chukwuchekwa 👋
 
-Full Stack TypeScript Engineer focused on backend systems, cloud infrastructure, real-time applications, and production-ready software architecture.
+## Full Stack Software Engineer | TypeScript | Backend | Cloud
 
-I build and deploy scalable web platforms with real-world workflows, active users, and production infrastructure. My experience spans backend engineering, authentication systems, PostgreSQL ecosystems, Redis workflows, Linux server management, CI/CD pipelines, and Docker containerization.
+I'm a **Full Stack Software Engineer** with **2+ years of professional experience** designing, building, deploying, and maintaining production-ready web, mobile, and backend applications.
+
+I've worked with local and international engineering teams, including **Enterprise Metric Suite Solutions Limited (Nigeria)** and **PearlThoughts (India)**, while leading the development of production platforms under **Chekwasy Businesses**.
+
+My passion is building software that solves real business problems—from frontend applications and scalable backend APIs to cloud infrastructure, CI/CD automation, and production deployments.
 
 ---
 
-# Tech Stack
+# 🚀 Tech Stack
 
 ## Frontend
 
-- Next.js
-- React
-- Tailwind CSS
-- TypeScript
+* Next.js
+* React
+* React Native
+* TypeScript
+* JavaScript
+* Tailwind CSS
+* Redux Toolkit
 
 ---
 
 ## Backend
 
-- Node.js
-- Express.js
-- REST API Architecture
-- Authentication Systems (JWT + Redis Sessions)
-- Real-Time Data Processing
-- Background Workflows
+* Node.js
+* Express.js
+* REST API Architecture
+* JWT Authentication
+* Redis
+* TypeORM
+* Webhooks
+* Third-party API Integrations
 
 ---
 
 ## Databases
 
-- PostgreSQL (Supabase, TypeORM)
-- MongoDB (Atlas)
-- Redis
-- MySQL
+* PostgreSQL
+* Supabase
+* MongoDB
+* Redis
+* MySQL
 
 ---
 
-# DevOps & Infrastructure
+## Cloud & DevOps
 
-- AWS EC2
-- DigitalOcean
-- Ubuntu Linux
-- Docker Containerization
-- GitHub Actions (CI/CD)
-- PM2
-- Nginx Reverse Proxy
-- HAProxy
-- SSL (Certbot)
-- Vercel
-- Render
-- VirtualBox Linux Environments
-
----
-
-# Featured Projects
-
-## Trybet — Real-Time Betting Simulation Platform (Production)
-
-A live betting simulation platform enabling users to predict real-time football matches using dynamic odds and automated game validation systems.
-
-### Features
-
-- Integrated live score systems for automatic result processing
-- Built multiple evolving architectures (MongoDB + Redis, PostgreSQL + Supabase)
-- Designed real-time prediction workflows and backend processing pipelines
-- Implemented wallet-style logic, booking systems, and live outcome updates
-- Deployed production infrastructure using Linux servers, PM2, Nginx, HAProxy, and CI/CD pipelines
-- Recently containerized the platform using Docker workflows within Ubuntu environments
-
-### Tech
-
-Next.js, TypeScript, Node.js, PostgreSQL, Supabase, Redis, Docker
-
-### Repository
-
-https://github.com/Chekwasy/trybet-betting-platform
+* Docker
+* GitHub Actions
+* AWS EC2
+* DigitalOcean
+* Ubuntu Linux
+* Nginx
+* PM2
+* HAProxy
+* Certbot
+* Vercel
+* Render
 
 ---
 
-## Healthcare Appointment System (TypeORM + Redis + JWT)
+# 💼 Professional Experience
 
-A scalable healthcare platform supporting doctor and patient workflows, appointment scheduling, transactional booking systems, and secure authentication.
+### Full Stack Software Engineer
 
-### Features
+**Chekwasy Businesses** *(2023 – Present)*
 
-- JWT authentication with Redis session management
-- Transaction-safe appointment scheduling workflows
-- Structured PostgreSQL schema design using TypeORM
-- Backend APIs optimized for real-world scheduling consistency
-- Role-based system architecture for doctors and patients
+* Lead development of production software including TryBet and SafeBoard.
+* Design scalable backend APIs and frontend applications.
+* Build React Native mobile applications.
+* Manage PostgreSQL databases and cloud deployments.
+* Implement Docker-based deployments and CI/CD pipelines.
 
-### Tech
+---
 
-Next.js, TypeScript, PostgreSQL, TypeORM, Redis, JWT
+### Full Stack Developer
 
-### Repository
+**Enterprise Metric Suite Solutions Limited** *(Nigeria)*
 
+* Developed and maintained production business applications.
+* Built frontend interfaces using Next.js and TypeScript.
+* Developed backend APIs using Node.js and Express.js.
+* Worked with PostgreSQL databases and REST APIs.
+
+---
+
+### Backend Engineering Intern (Remote)
+
+**PearlThoughts** *(India)*
+
+* Developed backend services using Node.js and Express.
+* Worked remotely with an international engineering team.
+* Built REST APIs and backend business logic.
+* Participated in database design and API integration.
+
+---
+
+# 🚀 Featured Projects
+
+## ⚽ TryBet
+
+**Production Football Prediction Platform**
+
+Live:
+https://trybet.com.ng
+
+A production platform where users predict football matches, compete on weekly leaderboards, earn rewards, and interact with a scalable backend architecture.
+
+### Highlights
+
+* Full-stack architecture using Next.js and Express.js
+* PostgreSQL (Supabase)
+* React Native Android application
+* Live football fixture integration
+* Automated result processing
+* Authentication & authorization
+* Docker containerization
+* GitHub Actions CI/CD
+* Linux server administration
+* Nginx & PM2 production deployment
+
+---
+
+## 🚦 SafeBoard
+
+**Transport Safety Platform**
+
+Live:
+https://safeboard.com.ng
+
+A transport safety platform focused on vehicle verification, reporting, and transport management.
+
+### Highlights
+
+* REST API architecture
+* Vehicle verification workflows
+* Cloudinary media uploads
+* Authentication
+* PostgreSQL
+* Production deployment
+
+---
+
+## 🏥 Healthcare Appointment Platform
+
+Repository:
 https://github.com/Chekwasy/health-typeorm
 
----
+A healthcare management system designed for clinics and hospitals.
 
-## Healthcare Appointment System (Supabase Version)
+### Highlights
 
-Earlier version of the healthcare system using Supabase authentication and PostgreSQL workflows.
-
-### Features
-
-- Real-time relational data handling
-- Role-based access workflows
-- Scheduling and appointment logic
-- Progressive migration into custom backend architecture
-
-### Tech
-
-Next.js, TypeScript, Supabase, PostgreSQL
-
-### Repository
-
-https://github.com/Chekwasy/health-frontend
+* JWT Authentication
+* PostgreSQL + TypeORM
+* Appointment scheduling
+* Doctor & Patient workflows
+* WhatsApp Cloud API integration
+* MessageBird integration
+* Webhook automation
 
 ---
 
-## SafeBoard — Transport Safety Platform
+## 👷 Worker Management System
 
-A transport verification and safety platform focused on structured validation workflows and real-time backend processing.
-
-### Features
-
-- Vehicle verification workflows
-- Cloudinary-based media upload handling
-- Backend validation and processing pipelines
-- Structured transport safety management system
-
-### Tech
-
-Next.js, Supabase, Cloudinary, PostgreSQL
-
----
-
-## Worker Management System
-
-Administrative dashboard for managing workers, authentication systems, and structured operational workflows.
-
-### Features
-
-- CRUD operations
-- Authentication & authorization
-- Structured backend architecture
-- Administrative workflow management
-
-### Tech
-
-Next.js, TypeScript, MongoDB
-
-### Repository
-
+Repository:
 https://github.com/Chekwasy/worker-management-system
 
----
+Administrative platform for managing workers, authentication, and operational workflows.
 
-# What I Focus On
+### Highlights
 
-- Scalable backend architecture
-- Production deployment workflows
-- Docker containerization
-- Linux infrastructure management
-- CI/CD pipelines
-- Authentication & session management
-- PostgreSQL & Redis systems
-- Real-world workflow automation
-- Cloud infrastructure and deployment
+* CRUD operations
+* Authentication & Authorization
+* Dashboard
+* MongoDB
+* Administrative workflow management
 
 ---
 
-# Portfolio
+# 🎯 Engineering Focus
 
+* Full Stack Software Development
+* Backend Engineering
+* Scalable REST API Design
+* Cloud Infrastructure
+* Docker & Containerization
+* CI/CD Automation
+* Linux Server Administration
+* Authentication Systems
+* PostgreSQL & Database Design
+* Redis & Caching
+* React Native Development
+* Production Deployments
+* System Architecture
+
+---
+
+# 🌐 Portfolio
+
+Portfolio:
 https://portfolio-nine-lovat-86.vercel.app/
 
+TryBet:
+https://trybet.com.ng
+
+SafeBoard:
+https://safeboard.com.ng
+
 ---
 
-# Contact
+# 📫 Connect With Me
 
-Email: richardchekwas@gmail.com
+📧 Email:
+[richardchekwas@gmail.com](mailto:richardchekwas@gmail.com)
 
-GitHub:
+💼 LinkedIn:
+https://www.linkedin.com/in/richard-chukwuchekwa-052543175
+
+💻 GitHub:
 https://github.com/Chekwasy
+
+---
+
+## 💡 About Me
+
+I enjoy building software from idea to production. Whether it's architecting scalable backend systems, developing responsive user interfaces, deploying cloud infrastructure, or automating production workflows, I focus on creating software that is reliable, maintainable, and delivers real business value.
+
+I'm always open to collaborating on exciting projects and exploring opportunities in Full Stack Software Engineering, Backend Engineering, and Cloud Infrastructure.
